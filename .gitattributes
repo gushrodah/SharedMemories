@@ -1,0 +1,4 @@
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+SharedMemories/Library/Artifacts/5e/5e973219fc654a352d9330c16f8368b3 filter=lfs diff=lfs merge=lfs -text
